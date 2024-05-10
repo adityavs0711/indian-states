@@ -1,0 +1,4 @@
+Create a screen with map in background.
+Create a database of states by using Pandas.
+Ask user to guess a state.
+Check for user answer and increment the score if correct.
